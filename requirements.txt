@@ -4,3 +4,5 @@ streamlit
 transformers
 python-dotenv
 hashlib
+nltk
+os
