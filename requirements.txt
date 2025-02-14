@@ -1,0 +1,6 @@
+torch
+sqlite3
+streamlit
+transformers
+python-dotenv
+hashlib
