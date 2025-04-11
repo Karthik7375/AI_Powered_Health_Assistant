@@ -11,6 +11,12 @@ Key Features
 
 ![image](Logo.jpg)
 
+Installation
+1) git clone https://github.com/Karthik7375/AI_Powered_Health_Assistant.git
+2) pip install -r requirements.txt (if the modules already installed, not needed)
+3) Create a .env file and put your groq_api_key from the groq website
+4) run the command: streamlit run app.py
+
 
 
 How It Works
