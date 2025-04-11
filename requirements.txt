@@ -1,0 +1,5 @@
+sqlite3
+streamlit
+python-dotenv
+hashlib
+Groq
